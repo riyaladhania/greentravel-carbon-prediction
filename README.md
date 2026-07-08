@@ -1,7 +1,5 @@
-# greentravel-carbon-prediction
-ML classifier predicting high-carbon business trips - Summer Analytics 2026
-
-# GreenTravel Intelligence Challenge - High-Carbon Trip Prediction
+# GreenTravel Intelligence Challenge - High-Carbon Trip Prediction 
+~(ML classifier predicting high-carbon business trips - Summer Analytics 2026)
 
 Predicts whether a business trip will be classified as "HighCarbon" using LightGBM.
 Built for Summer Analytics 2026 (Consulting & Analytics Club, IIT Guwahati).
